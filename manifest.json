@@ -1,0 +1,17 @@
+{
+  "name": "single_chart",
+  "version": "1.0.0",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "mapping": [
+    {
+      "dataSetId": "a8dda86c-a71d-4559-b48e-52867c21b19d",
+      "alias": "olist_1",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "5d4a8754-f0d7-4f5f-8508-4bec7c1184f3"
+}
